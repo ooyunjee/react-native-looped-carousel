@@ -7,6 +7,7 @@ import {
   TouchableOpacity,
   View,
   TouchableWithoutFeedback,
+  ViewPropTypes,
 } from 'react-native';
 import PropTypes from 'prop-types';
 import isEqual from 'lodash.isequal';
